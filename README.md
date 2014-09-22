@@ -14,6 +14,6 @@ The game features:
   - Music from IndieGameMusic.com
 
 Requirements:
-  -Unity version 4.5
+  - Unity version 4.5
 
 
