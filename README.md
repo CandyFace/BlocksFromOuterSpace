@@ -12,6 +12,7 @@ The game features:
   - MORE FANCY COLORS
   - A delightful space background
   - Music from IndieGameMusic.com
+  - My awesome voice for sound fx
 
 Requirements:
   - Unity version 4.5
