@@ -10,7 +10,7 @@ The game features:
   - infinitely spawning platforms at random positions
   - COLORS
   - MORE FANCY COLORS
-  - Delightful space background
+  - A delightful space background
   - Music from IndieGameMusic.com
 
 Requirements:
