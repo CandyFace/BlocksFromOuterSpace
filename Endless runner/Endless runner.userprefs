@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotationScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/platMove.cs" Line="6" Column="22" />
+      <File FileName="Assets/Scripts/Remover.cs" Line="14" Column="35" />
+      <File FileName="Assets/Scripts/platSpawn.cs" Line="32" Column="3" />
+      <File FileName="Assets/Scripts/MovementScript.cs" Line="61" Column="22" />
+      <File FileName="Assets/Scripts/MenuMouseHandling.cs" Line="18" Column="4" />
+      <File FileName="Assets/Scripts/Highscore.cs" Line="39" Column="28" />
+      <File FileName="Assets/Scripts/ColorChanger.cs" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/HowToScript.cs" Line="13" Column="42" />
+      <File FileName="Assets/Scripts/RotationScript.cs" Line="28" Column="11" />
+      <File FileName="Assets/Materials/Masking.shader" Line="8" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
